@@ -20,6 +20,7 @@ server.pid
 *.eml
 /dist/
 .cache
+.g8
 
 # Simple Build Tool
 # http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
